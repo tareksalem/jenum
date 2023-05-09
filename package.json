@@ -1,5 +1,5 @@
 {
-  "name": "xenum",
+  "name": "jenum",
   "version": "1.0.0",
   "description": "An advanced typescript/javascript enumeration library with extra functionality and behaviors",
   "main": "lib/index.js",
