@@ -17,6 +17,10 @@
 npm install xenum
 ```
 
+### Support
+
+This package can be used either in frontend or backend with the same installation and the same examples described bellow
+
 
 ## 🥙 &nbsp; Features
 
@@ -25,6 +29,8 @@ npm install xenum
 - Works with decorator pattern to give multiple synonyms to the enum
 - it gives you the ability to build complex enums "enum of nested objects"
 - types inferred from the enum
+- building complex enums
+- can be used in frontend or backend
 
 ## 📄&nbsp; Usage
 
@@ -253,3 +259,4 @@ class UserType extends BaseEnum<string> {
 }
 UserType.GetFromString('normalUser') // will return null
 ```
+
