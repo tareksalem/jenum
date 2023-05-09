@@ -8,9 +8,7 @@
 <p align="center">
 	<a href="#-installation-and-documentation">Installation</a> ❘
 	<a href="#-features">Features</a> ❘
-	<a href="#-usage">Usage</a> ❘
-	<a href="#-examples">Examples</a> ❘
-	<a href="#-license">License</a>
+	<a href="#-usage">Usage</a>
 </p>
 
 ## 🚀&nbsp; Installation and Documentation
