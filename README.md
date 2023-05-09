@@ -14,7 +14,7 @@
 ## 🚀&nbsp; Installation and Documentation
 
 ```bash
-npm install xenum
+npm install jenum
 ```
 
 ### Support
