@@ -1,5 +1,5 @@
 <div align="center">
-	<h1>J enum</h1>
+	<h1>Jenum</h1>
 	<h4 align="center">
         An advanced typescript/javascript enumeration library with extra functionality and behaviors
 	</h4>
